@@ -6,6 +6,12 @@
     if(isset($link)){
         echo "КРУТО КОННЕКТ ЕСТЬ)))";
     }
-
-
 ?>
+
+<div class="container">
+    <div class="row">
+        <div>
+
+        </div>
+    </div>
+</div>
