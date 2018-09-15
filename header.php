@@ -66,9 +66,8 @@
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
-</body>
 
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/jquery.min.js"></script>
 
-</html>
+<!--<script type="text/javascript" src="js/bootstrap.min.js"></script>-->
+<!--<script type="text/javascript" src="js/jquery.min.js"></script>-->
+<!---->
