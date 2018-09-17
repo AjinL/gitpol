@@ -1,2 +1,1 @@
 <?php
-    $sel_product =

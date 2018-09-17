@@ -62,7 +62,7 @@
 
 
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Регистрация</a></li>
+                <li><a href="registration/main_reg.php">Регистрация</a></li>
                 <li><a href="#">Вход</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
@@ -73,9 +73,6 @@
     </nav>
 </div>
 </body>
-
-
-
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/jquery.min.js"></script>
-<!---->
+
